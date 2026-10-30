@@ -1,0 +1,8 @@
+/vendor/
+/config.php
+/import*.xlsx
+/import*.xls
+/import*.csv
+*.log
+.env
+.env.*
