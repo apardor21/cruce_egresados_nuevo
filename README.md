@@ -7,7 +7,7 @@ Proyecto nuevo PHP + MySQL para importar tres Excel en tablas separadas (`ulyses
 2. En CMD ejecuta `cd C:\xampp\htdocs\cruce_egresados_nuevo` y luego `composer install`.
 3. Inicia Apache y MySQL en XAMPP.
 4. Importa `database.sql` en phpMyAdmin.
-5. Copia `config.example.php` como `config.php` y ajusta los datos de MySQL si es necesario.
+5. Si tu MySQL tiene otra clave, ajusta `config.php`.
 6. Abre `http://localhost/cruce_egresados_nuevo/`.
 
 ## Uso

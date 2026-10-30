@@ -1,0 +1,2 @@
+<?php
+return ['host'=>'127.0.0.1','database'=>'cruce_egresados','username'=>'root','password'=>'','charset'=>'utf8mb4'];
